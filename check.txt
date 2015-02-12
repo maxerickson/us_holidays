@@ -1,0 +1,227 @@
+Alabama
+    Robert E. Lee/Martin Luther King Birthday replaces Martin Luther King, Jr. Day
+    George Washington/Thomas Jefferson Birthday replaces Washington's Birthday
+   + Confederate Memorial Day ('firstAprilMonday', 21)
+   + Jefferson Davis' Birthday ('firstJuneMonday', 0)
+Alaska
+   - Columbus Day
+   + Seward's Day ('lastMarchMonday', 0)
+   + Alaska Day (10, 18)
+Arizona
+    Dr. Martin Luther King Jr./Civil Rights Day replaces Martin Luther King, Jr. Day
+Arkansas
+    Dr. Martin Luther King Jr. and Robert E. Lee's Birthdays replaces Martin Luther King, Jr. Day
+    George Washington's Birthday and Daisy Gatson Bates Day replaces Washington's Birthday
+   + Christmas Eve (12, 24)
+California
+   + César Chávez Day (3, 31)
+Colorada
+Connecticut
+   + Lincoln's Birthday (2, 12)
+   + Good Friday ('easter', -2)
+Delaware
+   + Good Friday ('easter', -2)
+   + Day After Thanksgiving ('firstNovemberThursday', 22)
+District of Columbia
+   + Emancipation Day (4, 16)
+Florida
+   - Washington's Birthday
+   - Columbus Day
+   + Friday after Thanksgiving ('firstNovemberThursday', 22)
+Georgia
+   - Washington's Birthday
+   + Confederate Memorial Day ('lastAprilMonday', 0)
+   + Robert E. Lee's Birthday ('firstNovemberThursday', 22)
+   + Washington's Birthday  (12, 24)
+Guam
+   + Guam Discovery Day (3, 5)
+   + Good Friday ('easter', -2)
+   + Liberation Day (7, 21)
+   + All Souls' Day (11, 2)
+   + Lady of Camarin Day (12, 8)
+Hawaii
+   - Columbus Day
+   + Prince Jonah Kuhio Kalanianaole Day (3, 26)
+   + Kamehameha Day (6, 11)
+   + Statehood Day ('firstAugustFriday', 14)
+   + Election Day ('firstNovemberMonday', 1)
+Idaho
+    Martin Luther King, Jr.-Idaho Human Rights Day replaces Martin Luther King, Jr. Day
+Illinois
+   + Lincoln's Birthday (2, 12)
+   + Casimir Pulaski Day ('firstMarchMonday', 0)
+   + Election Day ('firstNovemberMonday', 1)
+Indiana
+   + Good Friday ('easter', -2)
+   + Primary Election Day ('firstMayMonday', 1)
+   + Election Day ('firstNovemberMonday', 1)
+   + Lincoln's Birthday ('firstNovemberThursday', 22)
+Iowa
+   + Lincoln's Birthday (2, 12)
+Kansas
+Kentucky
+   + Good Friday ('easter', -2)
+   + Christmas Eve (12, 24)
+   + New Year's Eve (12, 31)
+Louisiana
+   + Mardi Gras ('easter', -47)
+   + Good Friday ('easter', -2)
+   + Election Day ('firstNovemberMonday', 1)
+Maine
+   + Patriots' Day ('firstAprilMonday', 14)
+Maryland
+   + Service Reduction Day ('lastMayMonday', -3)
+   + Native American Heritage Day ('firstNovemberThursday', 22)
+Massachusetts
+   + Evacuation Day (3, 17)
+   + Patriots' Day ('firstAprilMonday', 14)
+Michigan
+   + Christmas Eve (12, 24)
+   + New Year's Eve (12, 31)
+Minnesota
+Mississippi
+    Martin Luther King's and Robert E. Lee's Birthdays replaces Martin Luther King, Jr. Day
+   + Confederate Memorial Day ('lastAprilMonday', 0)
+Missouri
+   + Truman Day (5, 8)
+Montana
+   + Election Day ('firstNovemberMonday', 1)
+   + Christmas Eve (12, 24)
+   + New Year's Eve (12, 31)
+Nebraska
+   + Arbor Day ('lastAprilFriday', 0)
+Nevada
+   - Columbus Day
+   + Nevada Day ('lastOctoberFriday', 0)
+   + Family Day ('firstNovemberThursday', 22)
+New Hampshire
+    Martin Luther King, Jr. Civil Rights Day replaces Martin Luther King, Jr. Day
+   + Election Day ('firstNovemberMonday', 1)
+   + Day after Thanksgiving ('firstNovemberThursday', 22)
+New Jersey
+   + Lincoln's Birthday (2, 12)
+   + Good Friday ('easter', -2)
+   + Election Day ('firstNovemberMonday', 1)
+New Mexico
+   - Washington's Birthday
+   + Day after Thanksgiving ('firstNovemberThursday', 22)
+New York
+   + Lincoln's Birthday (2, 12)
+   + Election Day ('firstNovemberMonday', 1)
+North Carolina
+   + Good Friday ('easter', -2)
+   + Day after Thanksgiving ('firstNovemberThursday', 22)
+   + Christmas Eve (12, 24)
+   + Day After Christmas (12, 26)
+North Dakota
+Ohio
+Oklahoma
+   + Day after Thanksgiving ('firstNovemberThursday', 22)
+Oregon
+Pennsylvania
+   + Flag Day (6, 14)
+Puerto Rico
+    Día de los Presidentes replaces Washington's Birthday
+   + Three Kings Day/Epiphany (1, 6)
+   + Birthday of Eugenio María de Hostos ('firstJanuaryMonday', 7)
+   + Emancipation Day (3, 22)
+   + Good Friday ('easter', -2)
+   + Birthday of José de Diego ('firstAprilMonday', 14)
+   + Constitution of Puerto Rico Day (7, 25)
+   + Birthday of Dr. José Celso Barbosa (7, 27)
+   + Discovery of Puerto Rico (11, 19)
+   + Christmas Eve (12, 24)
+Rhode Island
+   + Victory Day ('firstAugustMonday', 7)
+South Carolina
+   + Confederate Memorial Day (5, 10)
+South Dakota
+    Native American Day replaces Columbus Day
+Tennessee
+   + Good Friday ('easter', -2)
+   + Christmas Eve (12, 24)
+Texas
+   + Friday after Thanksgiving ('firstNovemberThursday', 22)
+   + Christmas Eve (12, 24)
+   + Day after Christmas (12, 26)
+U.S. Virgin Islands
+    Virgin Islands-Puerto Rico Friendship Day replaces Columbus Day
+   + Three Kings Day (1, 6)
+   + Transfer Day (3, 31)
+   + Holy Thursday ('easter', -3)
+   + Good Friday ('easter', -2)
+   + Easter Monday ('easter', 1)
+   + Emancipation Day (7, 3)
+   + Hurricane Supplication Day ('firstJulyMonday', 21)
+   + Hurricane Thanksgiving (10, 25)
+   + Liberty Day (11, 1)
+   + Christmas Second Day (12, 26)
+   + New Year's Eve (12, 31)
+Utah
+   + Pioneer Day (7, 24)
+Vermont
+   + Town Meeting Day ('firstMarchTuesday', 0)
+   + Battle of Bennington ('firstAugustMonday', 14)
+Virginia
+   + Lee-Jackson Day ('firstJanuaryMonday', 18)
+Washington
+West Virginia
+   + West Virginia Day (6, 20)
+   + Lincoln's Day ('firstNovemberThursday', 22)
+Wisconsin
+   + Susan B. Anthony Day (2, 15)
+   + Primary Election Day ('firstSeptemberTuesday', 7)
+   + Election Day ('firstNovemberMonday', 1)
+Wyoming
+
+All: {'Veterans Day'} (11, 11)
+All, with variation: ('firstJanuaryMonday', 14)
+     {'Dr. Martin Luther King Jr./Civil Rights Day', 'Robert E. Lee/Martin Luther King Birthday', 'Martin Luther King, Jr. Day', "Dr. Martin Luther King Jr. and Robert E. Lee's Birthdays", "Martin Luther King's and Robert E. Lee's Birthdays", 'Martin Luther King, Jr.-Idaho Human Rights Day', 'Martin Luther King, Jr. Civil Rights Day'}
+All: {'Labor Day'} ('firstSeptemberMonday', 0)
+All: {"New Year's Day"} (1, 1)
+All: {'Christmas Day'} (12, 25)
+All: {'Memorial Day'} ('lastMayMonday', 0)
+All: {'Thanksgiving'} ('firstNovemberThursday', 21)
+All: {'Independence Day'} (7, 4)
+
+Several: (12, 31)
+     ['Kentucky', 'Michigan', 'Montana', 'U.S. Virgin Islands']
+     {"New Year's Eve"}
+Several: ('firstNovemberMonday', 1)
+     ['Hawaii', 'Illinois', 'Indiana', 'Louisiana', 'Montana', 'New Hampshire', 'New Jersey', 'New York', 'Wisconsin']
+     {'Election Day'}
+Several: (1, 6)
+     ['Puerto Rico', 'U.S. Virgin Islands']
+     {'Three Kings Day/Epiphany', 'Three Kings Day'}
+Several: (2, 12)
+     ['Connecticut', 'Illinois', 'Iowa', 'New Jersey', 'New York']
+     {"Lincoln's Birthday"}
+Several: (12, 24)
+     ['Arkansas', 'Georgia', 'Kentucky', 'Michigan', 'Montana', 'North Carolina', 'Puerto Rico', 'Tennessee', 'Texas']
+     {"Washington's Birthday ", 'Christmas Eve'}
+Several: ('easter', -2)
+     ['Connecticut', 'Delaware', 'Guam', 'Indiana', 'Kentucky', 'Louisiana', 'New Jersey', 'North Carolina', 'Puerto Rico', 'Tennessee', 'U.S. Virgin Islands']
+     {'Good Friday'}
+Several: ('firstFebruaryMonday', 14)
+     ['Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorada', 'Connecticut', 'Delaware', 'District of Columbia', 'Guam', 'Hawaii', 'Idaho', 'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana', 'Maine', 'Maryland', 'Massachusetts', 'Michigan', 'Minnesota', 'Mississippi', 'Missouri', 'Montana', 'Nebraska', 'Nevada', 'New Hampshire', 'New Jersey', 'New York', 'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Puerto Rico', 'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'U.S. Virgin Islands', 'Utah', 'Vermont', 'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming']
+     {'Día de los Presidentes', 'George Washington/Thomas Jefferson Birthday', "Washington's Birthday", "George Washington's Birthday and Daisy Gatson Bates Day"}
+Several: ('firstOctoberMonday', 7)
+     ['Alabama', 'Arizona', 'Arkansas', 'California', 'Colorada', 'Connecticut', 'Delaware', 'District of Columbia', 'Georgia', 'Guam', 'Idaho', 'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Kentucky', 'Louisiana', 'Maine', 'Maryland', 'Massachusetts', 'Michigan', 'Minnesota', 'Mississippi', 'Missouri', 'Montana', 'Nebraska', 'New Hampshire', 'New Jersey', 'New Mexico', 'New York', 'North Carolina', 'North Dakota', 'Ohio', 'Oklahoma', 'Oregon', 'Pennsylvania', 'Puerto Rico', 'Rhode Island', 'South Carolina', 'South Dakota', 'Tennessee', 'Texas', 'U.S. Virgin Islands', 'Utah', 'Vermont', 'Virginia', 'Washington', 'West Virginia', 'Wisconsin', 'Wyoming']
+     {'Columbus Day', 'Native American Day', 'Virgin Islands-Puerto Rico Friendship Day'}
+Several: (3, 31)
+     ['California', 'U.S. Virgin Islands']
+     {'Transfer Day', 'César Chávez Day'}
+Several: ('firstAprilMonday', 14)
+     ['Maine', 'Massachusetts', 'Puerto Rico']
+     {"Patriots' Day", 'Birthday of José de Diego'}
+Several: ('firstNovemberThursday', 22)
+     ['Delaware', 'Florida', 'Georgia', 'Indiana', 'Maryland', 'Nevada', 'New Hampshire', 'New Mexico', 'North Carolina', 'Oklahoma', 'Texas', 'West Virginia']
+     {"Lincoln's Day", 'Friday after Thanksgiving', 'Day After Thanksgiving', "Robert E. Lee's Birthday", 'Native American Heritage Day', 'Family Day', 'Day after Thanksgiving', "Lincoln's Birthday"}
+Several: ('lastAprilMonday', 0)
+     ['Georgia', 'Mississippi']
+     {'Confederate Memorial Day'}
+Several: (12, 26)
+     ['North Carolina', 'Texas', 'U.S. Virgin Islands']
+     {'Day after Christmas', 'Day After Christmas', 'Christmas Second Day'}
+
+['easter', 'firstAprilMonday', 'firstAugustFriday', 'firstAugustMonday', 'firstFebruaryMonday', 'firstJanuaryMonday', 'firstJulyMonday', 'firstJuneMonday', 'firstMarchMonday', 'firstMarchTuesday', 'firstMayMonday', 'firstNovemberMonday', 'firstNovemberThursday', 'firstOctoberMonday', 'firstSeptemberMonday', 'firstSeptemberTuesday', 'lastAprilFriday', 'lastAprilMonday', 'lastMarchMonday', 'lastMayMonday', 'lastOctoberFriday']
