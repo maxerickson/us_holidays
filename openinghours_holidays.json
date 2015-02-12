@@ -1,5 +1,12 @@
 {"us": {
     "PH": {
+        "New Year's Day" : [ 1, 1 ],
+        "Memorial Day" : ["lastMayMonday",0],
+        "Independence Day" : [7,4],
+        "Labor Day" : ["firstSeptemberMonday",0],
+        "Veterans Day" : [11,11],
+        "Thanksgiving" : ["firstNovemberThursday", 21],
+        "Christmas Day" : [ 12, 25 ],
     },
     "Alabama": {
         "PH": {
